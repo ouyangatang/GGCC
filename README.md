@@ -7,6 +7,4 @@ http://gogirlcodecamp.org
 or
 http://ouyangatang.github.io/GGCC
 
-The site is currently be transferred from 000webhost to GitHub Pages so hosting might be a little weird. 
-If you see an advertisement on the website, it's because the site hasn't been completely transferred over yet. (#justdnsthings!) of course, you can still see it throug the github project site link 
-
+This GitHub pages site is now linked to the domain! :) 
